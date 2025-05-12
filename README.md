@@ -2,6 +2,7 @@
 A basic program that implements the naive bayes classifier algorithm to some small datasets
 
 ===================================================================================================
+
 Original File Outline Author: Md Faisal Kabir
 Spring 2025
 
@@ -10,6 +11,8 @@ Check for updates at: https://github.com/Qhwelah/naive-bayes-program-cmpsc445.gi
 CMPSC 445 - HW4
 
 ===================================================================================================
+
+Program implementation build using Jupyter Notebook in HW4.ipynb
 
 In the program:
 Change these file names to swap programs
